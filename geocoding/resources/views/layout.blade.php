@@ -35,7 +35,7 @@
         <!-- Bootstrap JavaScript -->
         <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSVFXsD7Dioc3d9OTtyaaIJsfLQRIKYz0&signed_in=true&libraries=places"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDE24Sg4vYQzgP4y_Fq0fMw1iG_en6dgnU&signed_in=true&libraries=places"></script>
 
         <script src="{{asset('js/jquery.geocomplete.js')}}"></script>
 
